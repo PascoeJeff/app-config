@@ -1,7 +1,7 @@
 logging:
   level:
     io:
-      pivotal: INFO
+      pivotal: info
 
 greeting:
   displayFortune: true
